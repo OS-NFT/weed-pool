@@ -1,1 +1,6 @@
-{"name":"WEED_Preview","ticker":"WEEDP","description":"STAKE. SMOKE. LEARN.","homepage":"https://os-nft.github.io/weed-pool/","nonce":"1776798248"}
+{
+  "name": "WEED Preview",
+  "description": "WEED Stake Pool on Cardano Preview Testnet - STAKE. SMOKE. LEARN.",
+  "ticker": "WEED",
+  "homepage": "https://os-nft.github.io/weed-pool/"
+}
